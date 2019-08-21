@@ -1,11 +1,11 @@
 # run all tests in module:
-# my_projects/sample_unittest » python -m unittest test.test_the_guide -v
+# PY_VENV_unittest_suite/my_projects/python_unittest_suite » python -m unittest test.test_the_guide -v
 # run all tests in class:
-# my_projects/sample_unittest » python -m unittest test.test_the_guide.TestTheGuide -v
+# PY_VENV_unittest_suite/my_projects/python_unittest_suite » python -m unittest test.test_the_guide.TestTheGuide -v
 # run a specific test:
-# my_projects/sample_unittest » python -m unittest test.test_the_guide.TestTheGuide.test_test -v
+# PY_VENV_unittest_suite/my_projects/python_unittest_suite » python -m unittest test.test_the_guide.TestTheGuide.test_test -v
 # run all tests under test folder:
-# my_projects/sample_unittest » python -m unittest discover -v
+# PY_VENV_unittest_suite/my_projects/python_unittest_suite » python -m unittest discover -v
 
 import unittest
 

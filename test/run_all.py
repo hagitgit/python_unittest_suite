@@ -1,7 +1,7 @@
 # run the suite:
-# my_projects/sample_unittest » python -m unittest test.run_all -v
+# PY_VENV_unittest_suite/my_projects/python_unittest_suite » python -m unittest test.run_all -v
 # run all tests under test folder including suite:
-# my_projects/sample_unittest » python -m unittest discover -v
+# PY_VENV_unittest_suite/my_projects/python_unittest_suite » python -m unittest discover -v
 
 
 import unittest
